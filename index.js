@@ -1,1 +1,3 @@
-console.log('mmd');
+console.log("mmd");
+
+alert("hi mmd");
